@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Persons</string>
+    <string name="title_activity_person_list">Persons</string>
+    <string name="title_activity_person_details">Details</string>
+    <string name="action_settings">Settings</string>
+    <string name="internet_message">No internet connection!</string>
+</resources>
